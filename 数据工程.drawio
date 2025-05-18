@@ -8,10 +8,10 @@
           <mxGeometry x="100" y="40" width="500" height="225" as="geometry" />
         </mxCell>
         <mxCell id="I_psaVGzcSdA9k-5AXr2-1" value="CDM（公共数据层）" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="170" y="122.5" width="410" height="60" as="geometry" />
+          <mxGeometry x="170" y="90" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EinJu-5x4WggMxgmagd6-1" value="ODS（原始数据层）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="182.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WRWL0OdQ9SYDnA062jXD-1" value="阿里云数仓分层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="60" height="30" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="100" y="390" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WRWL0OdQ9SYDnA062jXD-14" value="业务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308.5" y="405" width="70" height="30" as="geometry" />
+          <mxGeometry x="315" y="405" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
